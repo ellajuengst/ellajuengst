@@ -5,7 +5,7 @@ let projects = [
         'tools': ['react', 'js', 'bootstrap'],
         'subcategory': ['Front-End Development'],
         'logotype':'../../assets/dev/Trivia/trivia-logotype.svg',
-        'cover': '../../assets/dev/Trivia/trivia-Cover.png',
+        'cover': '../../assets/dev/Trivia/trivia-cover.png',
         'id': '/development/trivia-app',
         'textColor': '#7947E8',
         'mainColor': '#EB628C',
